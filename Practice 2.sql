@@ -1,3 +1,4 @@
+use sys;
 drop table table1, table2;
 CREATE TABLE table2 (
 var1 char(2),
