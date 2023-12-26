@@ -1,3 +1,1 @@
-# MAHE-MySQL
-
-**Learning MySQL with MAHE**
+# alx-higher_level_programming
